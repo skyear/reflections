@@ -86,6 +86,7 @@ Sprite = function () {
     };
 
     this.acc = {
+      //I want to try some new changes
       x:   0,
       y:   0,
       rot: 0
